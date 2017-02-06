@@ -6,7 +6,7 @@
 Embed Font
 To embed your selected fonts into a webpage, copy this code into the <head> of your HTML document.
 STANDARD @IMPORT
-<link href="https://fonts.googleapis.com/css?family=Comfortaa|Inconsolata|Open+Sans|Play" rel="stylesheet">
+'<link href="https://fonts.googleapis.com/css?family=Comfortaa|Inconsolata|Open+Sans|Play" rel="stylesheet">
 Specify in CSS
 Use the following CSS rules to specify these families:
     font-family: 'Comfortaa', cursive;
